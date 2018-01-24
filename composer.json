@@ -1,0 +1,16 @@
+{
+    "name": "kdn/task.loc",
+    "description": "testing task",
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    },
+    
+	"autoload": {
+        "psr-4": {
+               "Core\\": "Core/",
+               "Core\\Db\\": "Core/Db/",
+	           "App\\Controller\\": "App/Controller/",
+	           "Core\\Base\\": "Core/base/"
+            }
+        }
+}
