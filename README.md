@@ -1,4 +1,3 @@
-# library<br />
 # Тестовое задание по теме "Библиотека"<br />
 На чистом php<br />
 установка тестового задания - git clone https://github.com/kdn1902/library.git<br />
